@@ -69,7 +69,7 @@
     "remark": "Jsnzkpg/Jsnzkpg",
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 10,
@@ -118,7 +118,7 @@
     "remark": "Misaka-blog/chromego_merge",
     "site": "https://github.com/Misaka-blog/chromego_merge",
     "url": "https://raw.githubusercontent.com/Misaka-blog/chromego_merge/refs/heads/main/sub/base64.txt",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": 17,
