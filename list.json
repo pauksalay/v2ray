@@ -126,5 +126,12 @@
     "site": "https://github.com/ripaojiedian/freenode",
     "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
     "enabled": true
+  },
+  {
+    "id": 18,
+    "remark": "peasoft/NoMoreWalls",
+    "site": "https://github.com/peasoft/NoMoreWalls",
+    "url": "https://github.com/peasoft/NoMoreWalls/raw/refs/heads/master/list.txt",
+    "enabled": true
   }
 ]
